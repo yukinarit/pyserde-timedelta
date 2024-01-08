@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyserde-timedelta"
-version = "0.1.0"
+version = "0.1.1"
 description = "pyserde extension for (de)serializing timedelta"
 authors = ["yukinarit <yukinarit84@gmail.com>"]
 license = "MIT"
